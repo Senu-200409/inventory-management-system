@@ -3,24 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\senul\\Desktop\\Office Assignment\\Inventory\\inventory-management-system\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9E0F93C3-747F-4920-B6C6-1FD3E9D314F3}|WebApplication1\\WebApplication1.csproj|c:\\users\\senul\\desktop\\office assignment\\inventory\\inventory-management-system\\webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E0F93C3-747F-4920-B6C6-1FD3E9D314F3}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9E0F93C3-747F-4920-B6C6-1FD3E9D314F3}|WebApplication1\\WebApplication1.csproj|C:\\Users\\senul\\Desktop\\Office Assignment\\Inventory\\inventory-management-system\\webapplication1\\models\\customersmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E0F93C3-747F-4920-B6C6-1FD3E9D314F3}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\customersmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9E0F93C3-747F-4920-B6C6-1FD3E9D314F3}|WebApplication1\\WebApplication1.csproj|C:\\Users\\senul\\Desktop\\Office Assignment\\Inventory\\inventory-management-system\\webapplication1\\databaseconnectivity\\dbconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E0F93C3-747F-4920-B6C6-1FD3E9D314F3}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\databaseconnectivity\\dbconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9E0F93C3-747F-4920-B6C6-1FD3E9D314F3}|WebApplication1\\WebApplication1.csproj|C:\\Users\\senul\\Desktop\\Office Assignment\\Inventory\\inventory-management-system\\webapplication1\\interfaces\\icustomers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E0F93C3-747F-4920-B6C6-1FD3E9D314F3}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\interfaces\\icustomers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0F93C3-747F-4920-B6C6-1FD3E9D314F3}|WebApplication1\\WebApplication1.csproj|C:\\Users\\senul\\Desktop\\Office Assignment\\Inventory\\inventory-management-system\\webapplication1\\dataaccess\\dacustomers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E0F93C3-747F-4920-B6C6-1FD3E9D314F3}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\dataaccess\\dacustomers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9E0F93C3-747F-4920-B6C6-1FD3E9D314F3}|WebApplication1\\WebApplication1.csproj|C:\\Users\\senul\\Desktop\\Office Assignment\\Inventory\\inventory-management-system\\webapplication1\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9E0F93C3-747F-4920-B6C6-1FD3E9D314F3}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9E0F93C3-747F-4920-B6C6-1FD3E9D314F3}|WebApplication1\\WebApplication1.csproj|C:\\Users\\senul\\Desktop\\Office Assignment\\Inventory\\inventory-management-system\\webapplication1\\controllers\\supplierscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E0F93C3-747F-4920-B6C6-1FD3E9D314F3}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\supplierscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9E0F93C3-747F-4920-B6C6-1FD3E9D314F3}|WebApplication1\\WebApplication1.csproj|C:\\Users\\senul\\Desktop\\Office Assignment\\Inventory\\inventory-management-system\\webapplication1\\dataaccess\\dasuppliers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E0F93C3-747F-4920-B6C6-1FD3E9D314F3}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\dataaccess\\dasuppliers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0F93C3-747F-4920-B6C6-1FD3E9D314F3}|WebApplication1\\WebApplication1.csproj|C:\\Users\\senul\\Desktop\\Office Assignment\\Inventory\\inventory-management-system\\webapplication1\\models\\suppliersmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E0F93C3-747F-4920-B6C6-1FD3E9D314F3}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\suppliersmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9E0F93C3-747F-4920-B6C6-1FD3E9D314F3}|WebApplication1\\WebApplication1.csproj|C:\\Users\\senul\\Desktop\\Office Assignment\\Inventory\\inventory-management-system\\webapplication1\\app_start\\unityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9E0F93C3-747F-4920-B6C6-1FD3E9D314F3}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\app_start\\unityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0F93C3-747F-4920-B6C6-1FD3E9D314F3}|WebApplication1\\WebApplication1.csproj|C:\\Users\\senul\\Desktop\\Office Assignment\\Inventory\\inventory-management-system\\webapplication1\\controllers\\supplierscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E0F93C3-747F-4920-B6C6-1FD3E9D314F3}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\supplierscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0F93C3-747F-4920-B6C6-1FD3E9D314F3}|WebApplication1\\WebApplication1.csproj|C:\\Users\\senul\\Desktop\\Office Assignment\\Inventory\\inventory-management-system\\webapplication1\\dataaccess\\daproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E0F93C3-747F-4920-B6C6-1FD3E9D314F3}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\dataaccess\\daproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0F93C3-747F-4920-B6C6-1FD3E9D314F3}|WebApplication1\\WebApplication1.csproj|C:\\Users\\senul\\Desktop\\Office Assignment\\Inventory\\inventory-management-system\\webapplication1\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E0F93C3-747F-4920-B6C6-1FD3E9D314F3}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0F93C3-747F-4920-B6C6-1FD3E9D314F3}|WebApplication1\\WebApplication1.csproj|c:\\users\\senul\\desktop\\office assignment\\inventory\\inventory-management-system\\webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E0F93C3-747F-4920-B6C6-1FD3E9D314F3}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0F93C3-747F-4920-B6C6-1FD3E9D314F3}|WebApplication1\\WebApplication1.csproj|C:\\Users\\senul\\Desktop\\Office Assignment\\Inventory\\inventory-management-system\\webapplication1\\databaseconnectivity\\dbconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E0F93C3-747F-4920-B6C6-1FD3E9D314F3}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\databaseconnectivity\\dbconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9E0F93C3-747F-4920-B6C6-1FD3E9D314F3}|WebApplication1\\WebApplication1.csproj|C:\\Users\\senul\\Desktop\\Office Assignment\\Inventory\\inventory-management-system\\webapplication1\\models\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,16 +63,8 @@
       "RelativeMoniker": "D:0:0:{9E0F93C3-747F-4920-B6C6-1FD3E9D314F3}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\productsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9E0F93C3-747F-4920-B6C6-1FD3E9D314F3}|WebApplication1\\WebApplication1.csproj|C:\\Users\\senul\\Desktop\\Office Assignment\\Inventory\\inventory-management-system\\webapplication1\\models\\customersmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E0F93C3-747F-4920-B6C6-1FD3E9D314F3}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\customersmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9E0F93C3-747F-4920-B6C6-1FD3E9D314F3}|WebApplication1\\WebApplication1.csproj|C:\\Users\\senul\\Desktop\\Office Assignment\\Inventory\\inventory-management-system\\webapplication1\\interfaces\\icategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9E0F93C3-747F-4920-B6C6-1FD3E9D314F3}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\interfaces\\icategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9E0F93C3-747F-4920-B6C6-1FD3E9D314F3}|WebApplication1\\WebApplication1.csproj|C:\\Users\\senul\\Desktop\\Office Assignment\\Inventory\\inventory-management-system\\webapplication1\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E0F93C3-747F-4920-B6C6-1FD3E9D314F3}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9E0F93C3-747F-4920-B6C6-1FD3E9D314F3}|WebApplication1\\WebApplication1.csproj|C:\\Users\\senul\\Desktop\\Office Assignment\\Inventory\\inventory-management-system\\webapplication1\\interfaces\\iunits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -59,32 +79,12 @@
       "RelativeMoniker": "D:0:0:{9E0F93C3-747F-4920-B6C6-1FD3E9D314F3}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\interfaces\\iproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9E0F93C3-747F-4920-B6C6-1FD3E9D314F3}|WebApplication1\\WebApplication1.csproj|C:\\Users\\senul\\Desktop\\Office Assignment\\Inventory\\inventory-management-system\\webapplication1\\interfaces\\icustomers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E0F93C3-747F-4920-B6C6-1FD3E9D314F3}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\interfaces\\icustomers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9E0F93C3-747F-4920-B6C6-1FD3E9D314F3}|WebApplication1\\WebApplication1.csproj|C:\\Users\\senul\\Desktop\\Office Assignment\\Inventory\\inventory-management-system\\webapplication1\\controllers\\unitscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9E0F93C3-747F-4920-B6C6-1FD3E9D314F3}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\unitscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9E0F93C3-747F-4920-B6C6-1FD3E9D314F3}|WebApplication1\\WebApplication1.csproj|C:\\Users\\senul\\Desktop\\Office Assignment\\Inventory\\inventory-management-system\\webapplication1\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9E0F93C3-747F-4920-B6C6-1FD3E9D314F3}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9E0F93C3-747F-4920-B6C6-1FD3E9D314F3}|WebApplication1\\WebApplication1.csproj|C:\\Users\\senul\\Desktop\\Office Assignment\\Inventory\\inventory-management-system\\webapplication1\\dataaccess\\dacustomers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E0F93C3-747F-4920-B6C6-1FD3E9D314F3}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\dataaccess\\dacustomers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9E0F93C3-747F-4920-B6C6-1FD3E9D314F3}|WebApplication1\\WebApplication1.csproj|C:\\Users\\senul\\Desktop\\Office Assignment\\Inventory\\inventory-management-system\\webapplication1\\dataaccess\\dasuppliers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E0F93C3-747F-4920-B6C6-1FD3E9D314F3}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\dataaccess\\dasuppliers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9E0F93C3-747F-4920-B6C6-1FD3E9D314F3}|WebApplication1\\WebApplication1.csproj|C:\\Users\\senul\\Desktop\\Office Assignment\\Inventory\\inventory-management-system\\webapplication1\\dataaccess\\daproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E0F93C3-747F-4920-B6C6-1FD3E9D314F3}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\dataaccess\\daproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9E0F93C3-747F-4920-B6C6-1FD3E9D314F3}|WebApplication1\\WebApplication1.csproj|C:\\Users\\senul\\Desktop\\Office Assignment\\Inventory\\inventory-management-system\\webapplication1\\models\\suppliersmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E0F93C3-747F-4920-B6C6-1FD3E9D314F3}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\suppliersmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9E0F93C3-747F-4920-B6C6-1FD3E9D314F3}|WebApplication1\\WebApplication1.csproj|C:\\Users\\senul\\Desktop\\Office Assignment\\Inventory\\inventory-management-system\\webapplication1\\dataaccess\\daunits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -106,11 +106,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SuppliersController.cs",
+              "DocumentMoniker": "C:\\Users\\senul\\Desktop\\Office Assignment\\Inventory\\inventory-management-system\\WebApplication1\\Controllers\\SuppliersController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\SuppliersController.cs",
+              "ToolTip": "C:\\Users\\senul\\Desktop\\Office Assignment\\Inventory\\inventory-management-system\\WebApplication1\\Controllers\\SuppliersController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\SuppliersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T09:49:42.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "DASuppliers.cs",
+              "DocumentMoniker": "C:\\Users\\senul\\Desktop\\Office Assignment\\Inventory\\inventory-management-system\\WebApplication1\\DataAccess\\DASuppliers.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\DataAccess\\DASuppliers.cs",
+              "ToolTip": "C:\\Users\\senul\\Desktop\\Office Assignment\\Inventory\\inventory-management-system\\WebApplication1\\DataAccess\\DASuppliers.cs",
+              "RelativeToolTip": "WebApplication1\\DataAccess\\DASuppliers.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAFoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T09:50:11.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "C:\\Users\\senul\\Desktop\\Office Assignment\\Inventory\\inventory-management-system\\WebApplication1\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\CustomersController.cs",
+              "ToolTip": "C:\\Users\\senul\\Desktop\\Office Assignment\\Inventory\\inventory-management-system\\WebApplication1\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\CustomersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T10:35:33.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "UnityConfig.cs",
               "DocumentMoniker": "C:\\Users\\senul\\Desktop\\Office Assignment\\Inventory\\inventory-management-system\\WebApplication1\\App_Start\\UnityConfig.cs",
               "RelativeDocumentMoniker": "WebApplication1\\App_Start\\UnityConfig.cs",
@@ -118,59 +157,103 @@
               "RelativeToolTip": "WebApplication1\\App_Start\\UnityConfig.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-27T03:14:51.819Z"
+              "WhenOpened": "2025-06-27T03:14:51.819Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "CustomersController.cs",
-              "DocumentMoniker": "C:\\Users\\senul\\Desktop\\Office Assignment\\Inventory\\inventory-management-system\\WebApplication1\\Controllers\\CustomersController.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\CustomersController.cs",
-              "ToolTip": "C:\\Users\\senul\\Desktop\\Office Assignment\\Inventory\\inventory-management-system\\WebApplication1\\Controllers\\CustomersController.cs",
-              "RelativeToolTip": "WebApplication1\\Controllers\\CustomersController.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAUwDQAAAABAAAAAAAAAA==",
+              "Title": "DACustomers.cs",
+              "DocumentMoniker": "C:\\Users\\senul\\Desktop\\Office Assignment\\Inventory\\inventory-management-system\\WebApplication1\\DataAccess\\DACustomers.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\DataAccess\\DACustomers.cs",
+              "ToolTip": "C:\\Users\\senul\\Desktop\\Office Assignment\\Inventory\\inventory-management-system\\WebApplication1\\DataAccess\\DACustomers.cs",
+              "RelativeToolTip": "WebApplication1\\DataAccess\\DACustomers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-30T10:35:33.759Z"
+              "WhenOpened": "2025-07-30T10:35:57.285Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "DBConnect.cs",
-              "DocumentMoniker": "C:\\Users\\senul\\Desktop\\Office Assignment\\Inventory\\inventory-management-system\\WebApplication1\\DataBaseConnectivity\\DBConnect.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\DataBaseConnectivity\\DBConnect.cs",
-              "ToolTip": "C:\\Users\\senul\\Desktop\\Office Assignment\\Inventory\\inventory-management-system\\WebApplication1\\DataBaseConnectivity\\DBConnect.cs",
-              "RelativeToolTip": "WebApplication1\\DataBaseConnectivity\\DBConnect.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAxwEgAAAAAAAAAAAAAAA==",
+              "Title": "ICustomers.cs",
+              "DocumentMoniker": "C:\\Users\\senul\\Desktop\\Office Assignment\\Inventory\\inventory-management-system\\WebApplication1\\Interfaces\\ICustomers.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Interfaces\\ICustomers.cs",
+              "ToolTip": "C:\\Users\\senul\\Desktop\\Office Assignment\\Inventory\\inventory-management-system\\WebApplication1\\Interfaces\\ICustomers.cs",
+              "RelativeToolTip": "WebApplication1\\Interfaces\\ICustomers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T10:26:11.124Z"
+              "WhenOpened": "2025-07-30T10:36:17.677Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ProductsModel.cs",
-              "DocumentMoniker": "C:\\Users\\senul\\Desktop\\Office Assignment\\Inventory\\inventory-management-system\\WebApplication1\\Models\\ProductsModel.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Models\\ProductsModel.cs",
-              "ToolTip": "C:\\Users\\senul\\Desktop\\Office Assignment\\Inventory\\inventory-management-system\\WebApplication1\\Models\\ProductsModel.cs",
-              "RelativeToolTip": "WebApplication1\\Models\\ProductsModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBEAAAABAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "CustomersModel.cs",
+              "DocumentMoniker": "C:\\Users\\senul\\Desktop\\Office Assignment\\Inventory\\inventory-management-system\\WebApplication1\\Models\\CustomersModel.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\CustomersModel.cs",
+              "ToolTip": "C:\\Users\\senul\\Desktop\\Office Assignment\\Inventory\\inventory-management-system\\WebApplication1\\Models\\CustomersModel.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\CustomersModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-29T06:18:38.664Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Response.cs",
-              "DocumentMoniker": "C:\\Users\\senul\\Desktop\\Office Assignment\\Inventory\\inventory-management-system\\WebApplication1\\Models\\Response.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Models\\Response.cs",
-              "ToolTip": "C:\\Users\\senul\\Desktop\\Office Assignment\\Inventory\\inventory-management-system\\WebApplication1\\Models\\Response.cs",
-              "RelativeToolTip": "WebApplication1\\Models\\Response.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-28T07:28:50.312Z"
+              "WhenOpened": "2025-07-31T14:47:15.24Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "SuppliersModel.cs",
+              "DocumentMoniker": "C:\\Users\\senul\\Desktop\\Office Assignment\\Inventory\\inventory-management-system\\WebApplication1\\Models\\SuppliersModel.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\SuppliersModel.cs",
+              "ToolTip": "C:\\Users\\senul\\Desktop\\Office Assignment\\Inventory\\inventory-management-system\\WebApplication1\\Models\\SuppliersModel.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\SuppliersModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T09:50:58.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DAProducts.cs",
+              "DocumentMoniker": "C:\\Users\\senul\\Desktop\\Office Assignment\\Inventory\\inventory-management-system\\WebApplication1\\DataAccess\\DAProducts.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\DataAccess\\DAProducts.cs",
+              "ToolTip": "C:\\Users\\senul\\Desktop\\Office Assignment\\Inventory\\inventory-management-system\\WebApplication1\\DataAccess\\DAProducts.cs",
+              "RelativeToolTip": "WebApplication1\\DataAccess\\DAProducts.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAA5wA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T06:17:50.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\senul\\Desktop\\Office Assignment\\Inventory\\inventory-management-system\\WebApplication1\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\senul\\Desktop\\Office Assignment\\Inventory\\inventory-management-system\\WebApplication1\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwDQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T05:29:25.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\senul\\Desktop\\Office Assignment\\Inventory\\inventory-management-system\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\senul\\Desktop\\Office Assignment\\Inventory\\inventory-management-system\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T09:20:20.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Categories.cs",
               "DocumentMoniker": "C:\\Users\\senul\\Desktop\\Office Assignment\\Inventory\\inventory-management-system\\WebApplication1\\Models\\Categories.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Models\\Categories.cs",
@@ -182,44 +265,43 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SuppliersController.cs",
-              "DocumentMoniker": "C:\\Users\\senul\\Desktop\\Office Assignment\\Inventory\\inventory-management-system\\WebApplication1\\Controllers\\SuppliersController.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\SuppliersController.cs",
-              "ToolTip": "C:\\Users\\senul\\Desktop\\Office Assignment\\Inventory\\inventory-management-system\\WebApplication1\\Controllers\\SuppliersController.cs",
-              "RelativeToolTip": "WebApplication1\\Controllers\\SuppliersController.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAAADQAAAABAAAAAAAAAA==",
+              "DocumentIndex": 13,
+              "Title": "Response.cs",
+              "DocumentMoniker": "C:\\Users\\senul\\Desktop\\Office Assignment\\Inventory\\inventory-management-system\\WebApplication1\\Models\\Response.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Response.cs",
+              "ToolTip": "C:\\Users\\senul\\Desktop\\Office Assignment\\Inventory\\inventory-management-system\\WebApplication1\\Models\\Response.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Response.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-30T09:49:42.651Z"
+              "WhenOpened": "2025-07-28T07:28:50.312Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\senul\\Desktop\\Office Assignment\\Inventory\\inventory-management-system\\WebApplication1\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\senul\\Desktop\\Office Assignment\\Inventory\\inventory-management-system\\WebApplication1\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "WebApplication1\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBoAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 14,
+              "Title": "ProductsModel.cs",
+              "DocumentMoniker": "C:\\Users\\senul\\Desktop\\Office Assignment\\Inventory\\inventory-management-system\\WebApplication1\\Models\\ProductsModel.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\ProductsModel.cs",
+              "ToolTip": "C:\\Users\\senul\\Desktop\\Office Assignment\\Inventory\\inventory-management-system\\WebApplication1\\Models\\ProductsModel.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\ProductsModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T09:20:20.995Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "CategoriesController.cs",
-              "DocumentMoniker": "C:\\Users\\senul\\Desktop\\Office Assignment\\Inventory\\inventory-management-system\\WebApplication1\\Controllers\\CategoriesController.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\CategoriesController.cs",
-              "ToolTip": "C:\\Users\\senul\\Desktop\\Office Assignment\\Inventory\\inventory-management-system\\WebApplication1\\Controllers\\CategoriesController.cs",
-              "RelativeToolTip": "WebApplication1\\Controllers\\CategoriesController.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAQwDQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T05:29:25.96Z"
+              "WhenOpened": "2025-07-29T06:18:38.664Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
+              "Title": "DBConnect.cs",
+              "DocumentMoniker": "C:\\Users\\senul\\Desktop\\Office Assignment\\Inventory\\inventory-management-system\\WebApplication1\\DataBaseConnectivity\\DBConnect.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\DataBaseConnectivity\\DBConnect.cs",
+              "ToolTip": "C:\\Users\\senul\\Desktop\\Office Assignment\\Inventory\\inventory-management-system\\WebApplication1\\DataBaseConnectivity\\DBConnect.cs",
+              "RelativeToolTip": "WebApplication1\\DataBaseConnectivity\\DBConnect.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAxwEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T10:26:11.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "IUnits.cs",
               "DocumentMoniker": "C:\\Users\\senul\\Desktop\\Office Assignment\\Inventory\\inventory-management-system\\WebApplication1\\Interfaces\\IUnits.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Interfaces\\IUnits.cs",
@@ -231,7 +313,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 15,
               "Title": "ICategories.cs",
               "DocumentMoniker": "C:\\Users\\senul\\Desktop\\Office Assignment\\Inventory\\inventory-management-system\\WebApplication1\\Interfaces\\ICategories.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Interfaces\\ICategories.cs",
@@ -243,19 +325,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CustomersModel.cs",
-              "DocumentMoniker": "C:\\Users\\senul\\Desktop\\Office Assignment\\Inventory\\inventory-management-system\\WebApplication1\\Models\\CustomersModel.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Models\\CustomersModel.cs",
-              "ToolTip": "C:\\Users\\senul\\Desktop\\Office Assignment\\Inventory\\inventory-management-system\\WebApplication1\\Models\\CustomersModel.cs",
-              "RelativeToolTip": "WebApplication1\\Models\\CustomersModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-31T14:47:15.24Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "ISuppliers.cs",
               "DocumentMoniker": "C:\\Users\\senul\\Desktop\\Office Assignment\\Inventory\\inventory-management-system\\WebApplication1\\Interfaces\\ISuppliers.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Interfaces\\ISuppliers.cs",
@@ -267,7 +337,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 18,
               "Title": "IProducts.cs",
               "DocumentMoniker": "C:\\Users\\senul\\Desktop\\Office Assignment\\Inventory\\inventory-management-system\\WebApplication1\\Interfaces\\IProducts.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Interfaces\\IProducts.cs",
@@ -279,19 +349,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ICustomers.cs",
-              "DocumentMoniker": "C:\\Users\\senul\\Desktop\\Office Assignment\\Inventory\\inventory-management-system\\WebApplication1\\Interfaces\\ICustomers.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Interfaces\\ICustomers.cs",
-              "ToolTip": "C:\\Users\\senul\\Desktop\\Office Assignment\\Inventory\\inventory-management-system\\WebApplication1\\Interfaces\\ICustomers.cs",
-              "RelativeToolTip": "WebApplication1\\Interfaces\\ICustomers.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-30T10:36:17.677Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 19,
               "Title": "UnitsController.cs",
               "DocumentMoniker": "C:\\Users\\senul\\Desktop\\Office Assignment\\Inventory\\inventory-management-system\\WebApplication1\\Controllers\\UnitsController.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Controllers\\UnitsController.cs",
@@ -303,7 +361,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 20,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "C:\\Users\\senul\\Desktop\\Office Assignment\\Inventory\\inventory-management-system\\WebApplication1\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Controllers\\ProductsController.cs",
@@ -312,54 +370,6 @@
               "ViewState": "AgIAABoAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-29T06:16:59.493Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "DACustomers.cs",
-              "DocumentMoniker": "C:\\Users\\senul\\Desktop\\Office Assignment\\Inventory\\inventory-management-system\\WebApplication1\\DataAccess\\DACustomers.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\DataAccess\\DACustomers.cs",
-              "ToolTip": "C:\\Users\\senul\\Desktop\\Office Assignment\\Inventory\\inventory-management-system\\WebApplication1\\DataAccess\\DACustomers.cs",
-              "RelativeToolTip": "WebApplication1\\DataAccess\\DACustomers.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-30T10:35:57.285Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "DASuppliers.cs",
-              "DocumentMoniker": "C:\\Users\\senul\\Desktop\\Office Assignment\\Inventory\\inventory-management-system\\WebApplication1\\DataAccess\\DASuppliers.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\DataAccess\\DASuppliers.cs",
-              "ToolTip": "C:\\Users\\senul\\Desktop\\Office Assignment\\Inventory\\inventory-management-system\\WebApplication1\\DataAccess\\DASuppliers.cs",
-              "RelativeToolTip": "WebApplication1\\DataAccess\\DASuppliers.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAADwv0MAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-30T09:50:11.737Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "SuppliersModel.cs",
-              "DocumentMoniker": "C:\\Users\\senul\\Desktop\\Office Assignment\\Inventory\\inventory-management-system\\WebApplication1\\Models\\SuppliersModel.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Models\\SuppliersModel.cs",
-              "ToolTip": "C:\\Users\\senul\\Desktop\\Office Assignment\\Inventory\\inventory-management-system\\WebApplication1\\Models\\SuppliersModel.cs",
-              "RelativeToolTip": "WebApplication1\\Models\\SuppliersModel.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-30T09:50:58.95Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "DAProducts.cs",
-              "DocumentMoniker": "C:\\Users\\senul\\Desktop\\Office Assignment\\Inventory\\inventory-management-system\\WebApplication1\\DataAccess\\DAProducts.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\DataAccess\\DAProducts.cs",
-              "ToolTip": "C:\\Users\\senul\\Desktop\\Office Assignment\\Inventory\\inventory-management-system\\WebApplication1\\DataAccess\\DAProducts.cs",
-              "RelativeToolTip": "WebApplication1\\DataAccess\\DAProducts.cs",
-              "ViewState": "AgIAAFMAAAAAAAAAAAAwwA8AAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-29T06:17:50.299Z"
             },
             {
               "$type": "Document",

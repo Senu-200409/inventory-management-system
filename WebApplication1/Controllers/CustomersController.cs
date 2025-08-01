@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
+using WebApplication1.DataAccess;
 using WebApplication1.Interfaces;
 using WebApplication1.Models;
 
@@ -10,41 +11,41 @@ namespace WebApplication1.Controllers
 {
     public class CustomersController : Controller
     {
-        //private ISuppliers _suppliers;
+        //private ICustomers _customers;
 
-        private readonly ISuppliers _suppliers;
+        private readonly ICustomers _customers;
 
-        //DASuppliers DASuppliers = new DASuppliers();
+        //DASuppliers DACustomers = new DACustomers();
 
-        public SuppliersController(ISuppliers suppliers)
+        public CustomersController(ICustomers customers)
         {
-            _suppliers = suppliers;
+            _customers = customers;
         }
 
-        // GET: Suppliers
+        // GET: customers
         public ActionResult Index()
         {
             return View();
         }
 
         [HttpGet]
-        public ActionResult GetAllSuppliers()
+        public ActionResult GetAllCustomers()
         {
-            var result = _suppliers.GetAllSuppliers();
+            var result = _customers.GetAllCustomers();
             return Json(result, JsonRequestBehavior.AllowGet);
         }
 
         [HttpGet]
-        public ActionResult GetSuppliersBySupplierId(string supplierId)
+        public ActionResult GetCustomersByCustomerId(string customerId)
         {
-            var result = _suppliers.GetSuppliersBySupplierId(supplierId);
+            var result = _customers.GetCustomersByCustomerId(customerId);
             return Json(result, JsonRequestBehavior.AllowGet);
         }
 
         [HttpGet]
-        public ActionResult AddSuppliersDetails(SuppliersModel addSuppliers)
+        public ActionResult AddCustomersDetails(CustomersModel addCustomers)
         {
-            var result = _suppliers.AddSuppliersDetails(addSuppliers);
+            var result = _customers.AddCustomersDetails(addCustomers);
             return Json(result, JsonRequestBehavior.AllowGet);
         }
 
