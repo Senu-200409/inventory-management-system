@@ -23,6 +23,7 @@ namespace WebApplication1
             container.RegisterType<ISuppliers, DASuppliers>();
             container.RegisterType<ICustomers, DACustomers>();
             container.RegisterType<IPurchaseOrders, DAPurchaseOrders>();
+            container.RegisterType<ISalesOrders, DASalesOrders>();
 
             // Set the dependency resolver for MVC
             DependencyResolver.SetResolver(new UnityDependencyResolver(container));

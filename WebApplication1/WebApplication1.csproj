@@ -163,12 +163,14 @@
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\ProductsController.cs" />
     <Compile Include="Controllers\PurchaseOrdersController.cs" />
+    <Compile Include="Controllers\SalesOrdersController.cs" />
     <Compile Include="Controllers\SuppliersController.cs" />
     <Compile Include="Controllers\UnitsController.cs" />
     <Compile Include="DataAccess\DACategories.cs" />
     <Compile Include="DataAccess\DACustomers.cs" />
     <Compile Include="DataAccess\DAProducts.cs" />
     <Compile Include="DataAccess\DAPurchaseOrders.cs" />
+    <Compile Include="DataAccess\DASalesOrders.cs" />
     <Compile Include="DataAccess\DASuppliers.cs" />
     <Compile Include="DataAccess\DAUnits.cs" />
     <Compile Include="DataBaseConnectivity\DBConnect.cs" />
@@ -179,6 +181,7 @@
     <Compile Include="Interfaces\ICustomers.cs" />
     <Compile Include="Interfaces\IProducts.cs" />
     <Compile Include="Interfaces\IPurchaseOrders.cs" />
+    <Compile Include="Interfaces\ISalesOrders.cs" />
     <Compile Include="Interfaces\ISuppliers.cs" />
     <Compile Include="Interfaces\IUnits.cs" />
     <Compile Include="Models\Categories.cs" />
@@ -186,6 +189,7 @@
     <Compile Include="Models\ProductsModel.cs" />
     <Compile Include="Models\PurchaseOrdersModel.cs" />
     <Compile Include="Models\Response.cs" />
+    <Compile Include="Models\SalesOrdersModel.cs" />
     <Compile Include="Models\SuppliersModel.cs" />
     <Compile Include="Models\UnitsModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -250,6 +254,7 @@
     <Folder Include="Views\Customers\" />
     <Folder Include="Views\Products\" />
     <Folder Include="Views\PurchaseOrders\" />
+    <Folder Include="Views\SalesOrders\" />
     <Folder Include="Views\Suppliers\" />
     <Folder Include="Views\Test\" />
     <Folder Include="Views\Units\" />
